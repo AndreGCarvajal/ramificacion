@@ -13,3 +13,9 @@ print('Funciones del frontend')
 def despliegue():
     print('Despliegue de componentes funcionales')
 despliegue()
+
+print('funciones para el backend')
+
+def mostrar ():
+    print('Parte funcional del backend')
+mostrar() 
