@@ -6,3 +6,11 @@ def dividir(a,b):
     return a/b
 
 print(dividir(10,2))
+
+
+print('funciones para el backend')
+
+def mostrar ():
+    print('Parte funcional del backend')
+mostrar()
+
